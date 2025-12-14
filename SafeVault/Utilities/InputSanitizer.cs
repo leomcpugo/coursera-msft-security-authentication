@@ -1,4 +1,3 @@
-// Utilities/InputSanitizer.cs
 using System.Text.RegularExpressions;
 
 public static class InputSanitizer

@@ -1,4 +1,3 @@
-// Controllers/UserController.cs
 using Microsoft.AspNetCore.Mvc;
 
 [ApiController]
